@@ -1,1 +1,1 @@
-fixing controller
+fixing api end point
